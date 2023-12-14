@@ -7,20 +7,17 @@ import ReactDOM from "react-dom/client";
 function App() {
   return (
     <div>
-      <h2>Hello React </h2>
+      <h2>FIRAT ATALAY </h2>
+      <Pizza />
+      <Pizza />
+      <Pizza />
       <Pizza />
     </div>
   );
 }
 
 function Pizza() {
-  return (
-    <div>
-      <img src="pizzas/spinaci.jpg" alt="Pizza Spinaci"></img>
-      <h2>Pizza Spinaci</h2>
-      <p>Tomato, mozarella, ham, aragula, and burrata cheese</p>
-    </div>
-  );
+  return <h1>BENIM PIZZAM</h1>;
 }
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
