@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <Header />
-      <Pizza />
+      <Menu />
       <Footer />
     </div>
   );
@@ -18,10 +18,24 @@ function Header() {
   return <h1>Fast React Pizza Co.</h1>;
 }
 
-function Menu() {}
+function Menu() {
+  return (
+    <div>
+      <h2>Our Menu</h2>
+      <Pizza />
+      <Pizza />
+      <Pizza />
+      <Pizza />
+    </div>
+  );
+}
 
 function Footer() {
-  return React.createElement("footer", null, "We're currently open!");
+  return (
+    <footer>{new Date().toLocaleTimeString()}. We're currently open</footer>
+  );
+
+  // React.createElement("footer",null,"We're currently open" )
 }
 
 function Pizza() {
