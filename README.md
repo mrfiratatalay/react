@@ -13,4 +13,6 @@ Learning React can be a rewarding journey, and this project is here to assist yo
 - **Projects:** Apply what you've learned by building real-world projects with step-by-step instructions.
 - **Resources:** Discover a curated list of recommended books, articles, and online courses to deepen your React knowledge.
 
+# AUTHOR
+
 ## FIRAT ATALAY
