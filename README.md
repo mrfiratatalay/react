@@ -16,3 +16,5 @@ Learning React can be a rewarding journey, and this project is here to assist yo
 # AUTHOR
 
 ## FIRAT ATALAY
+
+- 04.06.2024
