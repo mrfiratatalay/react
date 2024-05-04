@@ -17,4 +17,4 @@ Learning React can be a rewarding journey, and this project is here to assist yo
 
 ## FIRAT ATALAY
 
-- 04.06.2024
+# I am not gonna have excuse anymore...
